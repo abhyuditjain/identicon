@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+This app creates an Identicon for a string.
 
 ## Installation
 
